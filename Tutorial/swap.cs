@@ -22,7 +22,7 @@ namespace Tutorial
         }
         static void Main()
         {
-            int a=10; int b=20;
+             int a=10; int b=20;
             Console.WriteLine("value of a is " + a+ " value of b is "+ b);
 
             Swap(ref a, ref b);
